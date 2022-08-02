@@ -1,0 +1,1 @@
+a css-hez tailwindet alkalmaztam, mielött integrálnál a code-ot átt kell vinnem teljes css-re
